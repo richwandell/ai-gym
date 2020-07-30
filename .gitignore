@@ -1,3 +1,4 @@
 .venv
 .idea
 cart_pole/working_model
+cart_pole/examples/working_model*
